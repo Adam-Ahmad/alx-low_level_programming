@@ -1,4 +1,4 @@
-#include<stdoi.h>
+#include<stdio.h>
 /**
  * main - A C program that prints the size of various types it is compiled and run on
  *
