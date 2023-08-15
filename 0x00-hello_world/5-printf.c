@@ -1,11 +1,12 @@
 #include<stdio.h>
 /**
- *main - Entry point
+ *main - A c program that print aline with printf function
  *
- * Return Always 0 (Success)
+ * Return: 0 (Success)
  */
-int main (void)
+int main(void)
 {
-	print("with proper grammar, but the outcome is a piece of art")
-	return(0);
+printf("with proper grammar, but the outcome is a piece of art,");
+return (0);
 }
+
